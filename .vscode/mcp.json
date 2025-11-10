@@ -1,0 +1,7 @@
+{
+  "servers": {
+    "agentmark-docs": {
+      "url": "https://docs.agentmark.co/mcp"
+    }
+  }
+}

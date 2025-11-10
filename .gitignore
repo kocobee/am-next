@@ -1,0 +1,7 @@
+node_modules
+.env
+*.agentmark-outputs/
+.agentmark
+
+# AgentMark local development config (contains webhook secrets)
+.agentmark/dev-config.json
