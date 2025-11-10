@@ -4,6 +4,7 @@
   "mdxVersion": "1.0",
   "agentmarkPath": ".",
   "builtInModels": [
-    "gpt-4o"
+    "gpt-4o",
+    "gpt-3101"
   ]
 }
